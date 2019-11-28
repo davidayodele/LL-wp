@@ -1,0 +1,10 @@
+<svg id="Group_2_Copy" data-name="Group 2 Copy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.978" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#39b54a"/>
+      <stop offset="1" stop-color="#34ad44"/>
+    </linearGradient>
+  </defs>
+  <rect id="Base" width="22" height="22" rx="11" fill="url(#linear-gradient)"/>
+  <path id="Check" d="M3.4,7.684.137,4.343a.478.478,0,0,1,0-.669L.8,3.006a.464.464,0,0,1,.66,0L3.734,5.345,8.81.138a.464.464,0,0,1,.66,0l.66.669a.476.476,0,0,1,0,.667L4.063,7.684a.464.464,0,0,1-.66,0" transform="translate(5.622 7.333)" fill="#fff"/>
+</svg>
